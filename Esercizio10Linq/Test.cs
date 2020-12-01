@@ -7,7 +7,7 @@ namespace Esercizio10Linq
 {
     public class Test
     {
-        //Creazione liste 
+        //Creazione liste:
         public static List<Persona> createPersonList()
         {
             var lista = new List<Persona>
